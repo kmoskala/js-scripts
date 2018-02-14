@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAsBA;;;;;;;EAOE;AC7BF,OAAQ;EACN,UAAU,EAAE,MAAM;;ADAlB,MAAE;EACA,KAAK,EEEY,IAAI;EFDrB,cAAU;IACR,KAAK,EEAe,GAAG;EFEzB,YAAQ;IACN,KAAK,EEHmB,IAAI;EFK9B,aAAS;IACP,KAAK,EENwB,KAAK",
+"sources": ["../scss/mixins.scss","../scss/unversal-style.scss","../scss/style.scss"],
+"names": [],
+"file": "style.css"
+}

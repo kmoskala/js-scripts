@@ -1,0 +1,21 @@
+/*
+input,
+textarea {
+    @include input-placeholder {
+        color: $grey;
+    }
+}
+*/
+.center {
+  text-align: center; }
+
+body a {
+  color: #000; }
+  body a:visited {
+    color: red; }
+  body a:hover {
+    color: blue; }
+  body a:active {
+    color: green; }
+
+/*# sourceMappingURL=style.css.map */

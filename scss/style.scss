@@ -1,0 +1,6 @@
+@import "mixins";
+@import "unversal-style";
+
+body {
+  @include linColors(#000,red,blue,green);
+}
